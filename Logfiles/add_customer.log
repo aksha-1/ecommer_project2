@@ -1,0 +1,156 @@
+2021-11-19 09:08:00,466 :INFO :27 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:08:10,164 :INFO :32 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 09:08:17,634 :INFO :48 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-19 09:08:18,300 :INFO :53 :Utilities.Usag_file :*************Add customer successfully alert validated and pass ********************
+2021-11-19 09:08:18,301 :INFO :60 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 09:08:36,726 :INFO :24 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:08:36,726 :INFO :24 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:08:36,741 :INFO :26 :Utilities.Usag_file :*************test_002_DDT_login********************
+2021-11-19 09:08:36,741 :INFO :26 :Utilities.Usag_file :*************test_002_DDT_login********************
+2021-11-19 09:08:36,742 :INFO :27 :Utilities.Usag_file :*************Verifying login test ********************
+2021-11-19 09:08:36,742 :INFO :27 :Utilities.Usag_file :*************Verifying login test ********************
+2021-11-19 09:08:36,742 :INFO :29 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:08:36,742 :INFO :29 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:08:58,625 :INFO :18 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 09:08:58,625 :INFO :18 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 09:08:58,625 :INFO :18 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 09:08:58,626 :INFO :19 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:08:58,626 :INFO :19 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:08:58,626 :INFO :19 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:08:58,639 :INFO :21 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:08:58,639 :INFO :21 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:08:58,639 :INFO :21 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:09:05,708 :INFO :23 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 09:09:05,708 :INFO :23 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 09:09:05,708 :INFO :23 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 09:09:07,950 :INFO :25 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 09:09:07,950 :INFO :25 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 09:09:07,950 :INFO :25 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 09:09:20,210 :INFO :29 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 09:09:20,210 :INFO :29 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 09:09:20,210 :INFO :29 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 09:09:20,293 :INFO :32 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 09:09:20,293 :INFO :32 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 09:09:20,293 :INFO :32 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 09:09:20,294 :INFO :38 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 09:09:20,294 :INFO :38 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 09:09:20,294 :INFO :38 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 09:09:49,486 :INFO :23 :Utilities.Usag_file :*************test_searchcustomer_004_TestCase ********************
+2021-11-19 09:09:49,486 :INFO :23 :Utilities.Usag_file :*************test_searchcustomer_004_TestCase ********************
+2021-11-19 09:09:49,486 :INFO :23 :Utilities.Usag_file :*************test_searchcustomer_004_TestCase ********************
+2021-11-19 09:09:49,486 :INFO :23 :Utilities.Usag_file :*************test_searchcustomer_004_TestCase ********************
+2021-11-19 09:09:49,488 :INFO :24 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:09:49,488 :INFO :24 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:09:49,488 :INFO :24 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:09:49,488 :INFO :24 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:10:13,302 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:10:13,302 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:10:13,302 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:10:13,302 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:10:18,130 :INFO :34 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:10:18,130 :INFO :34 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:10:18,130 :INFO :34 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:10:18,130 :INFO :34 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:10:18,495 :INFO :37 :Utilities.Usag_file :************* Search my email options ********************
+2021-11-19 09:10:18,495 :INFO :37 :Utilities.Usag_file :************* Search my email options ********************
+2021-11-19 09:10:18,495 :INFO :37 :Utilities.Usag_file :************* Search my email options ********************
+2021-11-19 09:10:18,495 :INFO :37 :Utilities.Usag_file :************* Search my email options ********************
+2021-11-19 09:10:18,582 :INFO :39 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:10:18,582 :INFO :39 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:10:18,582 :INFO :39 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:10:18,582 :INFO :39 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:10:41,869 :INFO :22 :Utilities.Usag_file :*************test_searchcustomer_005_TestCase ********************
+2021-11-19 09:10:41,869 :INFO :22 :Utilities.Usag_file :*************test_searchcustomer_005_TestCase ********************
+2021-11-19 09:10:41,869 :INFO :22 :Utilities.Usag_file :*************test_searchcustomer_005_TestCase ********************
+2021-11-19 09:10:41,869 :INFO :22 :Utilities.Usag_file :*************test_searchcustomer_005_TestCase ********************
+2021-11-19 09:10:41,869 :INFO :22 :Utilities.Usag_file :*************test_searchcustomer_005_TestCase ********************
+2021-11-19 09:10:41,870 :INFO :23 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:10:41,870 :INFO :23 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:10:41,870 :INFO :23 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:10:41,870 :INFO :23 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:10:41,870 :INFO :23 :Utilities.Usag_file :*************open new windows with login page ********************
+2021-11-19 09:11:01,172 :INFO :29 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:11:01,172 :INFO :29 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:11:01,172 :INFO :29 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:11:01,172 :INFO :29 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:11:01,172 :INFO :29 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 09:11:04,904 :INFO :33 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:11:04,904 :INFO :33 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:11:04,904 :INFO :33 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:11:04,904 :INFO :33 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:11:04,904 :INFO :33 :Utilities.Usag_file :*************Customer Sub-menu Option done ********************
+2021-11-19 09:11:05,384 :INFO :36 :Utilities.Usag_file :************* Search my name options ********************
+2021-11-19 09:11:05,384 :INFO :36 :Utilities.Usag_file :************* Search my name options ********************
+2021-11-19 09:11:05,384 :INFO :36 :Utilities.Usag_file :************* Search my name options ********************
+2021-11-19 09:11:05,384 :INFO :36 :Utilities.Usag_file :************* Search my name options ********************
+2021-11-19 09:11:05,384 :INFO :36 :Utilities.Usag_file :************* Search my name options ********************
+2021-11-19 09:11:05,507 :INFO :38 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:11:05,507 :INFO :38 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:11:05,507 :INFO :38 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:11:05,507 :INFO :38 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:11:05,507 :INFO :38 :Utilities.Usag_file :************* search button pass ********************
+2021-11-19 09:37:16,352 :INFO :18 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 09:37:16,362 :INFO :19 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 09:37:16,375 :INFO :21 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 09:37:23,159 :INFO :23 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 09:37:25,336 :INFO :25 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 09:37:35,161 :INFO :29 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 09:37:35,205 :INFO :32 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 09:37:35,205 :INFO :38 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 09:37:37,802 :INFO :40 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-19 09:37:37,910 :INFO :42 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-19 09:37:41,321 :INFO :44 :Utilities.Usag_file :*************Quit the session ********************
+2021-11-19 13:04:47,605 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 13:04:57,641 :INFO :35 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 13:05:02,762 :INFO :51 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-19 13:05:04,165 :INFO :56 :Utilities.Usag_file :*************Add customer successfully alert validated and pass ********************
+2021-11-19 13:05:04,166 :INFO :63 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 13:05:25,112 :INFO :20 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 13:05:25,112 :INFO :20 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 13:05:25,113 :INFO :21 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 13:05:25,113 :INFO :21 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 13:05:25,127 :INFO :23 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 13:05:25,127 :INFO :23 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 13:05:31,877 :INFO :25 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 13:05:31,877 :INFO :25 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 13:05:34,108 :INFO :27 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 13:05:34,108 :INFO :27 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 13:05:42,492 :INFO :31 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 13:05:42,492 :INFO :31 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 13:05:42,585 :INFO :34 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 13:05:42,585 :INFO :34 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 13:05:42,585 :INFO :40 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 13:05:42,585 :INFO :40 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 13:05:48,458 :INFO :42 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-19 13:05:48,458 :INFO :42 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-19 13:05:48,676 :INFO :44 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-19 13:05:48,676 :INFO :44 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-19 13:05:51,192 :INFO :46 :Utilities.Usag_file :*************Quit the session ********************
+2021-11-19 13:05:51,192 :INFO :46 :Utilities.Usag_file :*************Quit the session ********************
+2021-11-19 13:08:33,786 :INFO :30 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-19 13:08:45,704 :INFO :35 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 13:08:52,710 :INFO :51 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-19 13:08:55,276 :INFO :56 :Utilities.Usag_file :*************Add customer successfully alert validated and pass ********************
+2021-11-19 13:08:55,277 :INFO :63 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-19 13:09:18,367 :INFO :20 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 13:09:18,367 :INFO :20 :Utilities.Usag_file :*************test_001_login ********************
+2021-11-19 13:09:18,367 :INFO :21 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 13:09:18,367 :INFO :21 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-19 13:09:18,386 :INFO :23 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 13:09:18,386 :INFO :23 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-19 13:09:24,688 :INFO :25 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 13:09:24,688 :INFO :25 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-19 13:09:26,987 :INFO :27 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 13:09:26,987 :INFO :27 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-19 13:09:34,549 :INFO :31 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 13:09:34,549 :INFO :31 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-19 13:09:34,609 :INFO :34 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 13:09:34,609 :INFO :34 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-19 13:09:34,610 :INFO :40 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 13:09:34,610 :INFO :40 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-19 13:09:39,386 :INFO :42 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-19 13:09:39,386 :INFO :42 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-19 13:09:39,387 :INFO :44 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-19 13:09:39,387 :INFO :44 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-19 13:09:39,958 :INFO :46 :Utilities.Usag_file :*************Quit the session ********************
+2021-11-19 13:09:39,958 :INFO :46 :Utilities.Usag_file :*************Quit the session ********************

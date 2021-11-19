@@ -1,0 +1,114 @@
+2021-11-04 09:05:47,098 :INFO :24 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-04 09:05:47,114 :INFO :26 :Utilities.Usag_file :*************test_002_DDT_login********************
+2021-11-04 09:05:47,114 :INFO :27 :Utilities.Usag_file :*************Verifying login test ********************
+2021-11-04 09:05:47,115 :INFO :29 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-04 09:06:06,251 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:06:06,269 :INFO :45 :Utilities.Usag_file :*************expect_title pass ********************
+2021-11-04 09:06:10,012 :INFO :48 :Utilities.Usag_file :************* Passed ********************
+2021-11-04 09:06:18,552 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:06:18,563 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:06:18,563 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:06:27,927 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:06:27,938 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:06:27,939 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:06:36,336 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:06:36,349 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:06:36,349 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:06:44,534 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:06:44,547 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:06:44,548 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:06:44,548 :INFO :64 :Utilities.Usag_file :************* Login DDT test Passed............ ********************
+2021-11-04 09:06:44,592 :INFO :71 :Utilities.Usag_file :************ End Of the Login DDT Test Process **************
+2021-11-04 09:09:52,165 :INFO :18 :Utilities.Usag_file :*************test_001_login********************
+2021-11-04 09:09:52,167 :INFO :20 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-04 09:09:52,190 :INFO :22 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-04 09:09:58,523 :INFO :24 :Utilities.Usag_file :*************Added the input -surname ********************
+2021-11-04 09:10:00,799 :INFO :26 :Utilities.Usag_file :*************Added the input -Password ********************
+2021-11-04 09:10:07,925 :INFO :30 :Utilities.Usag_file :*************Click the button to login ********************
+2021-11-04 09:10:07,934 :INFO :33 :Utilities.Usag_file :*************Title of Page Pass ********************
+2021-11-04 09:10:07,935 :INFO :39 :Utilities.Usag_file :*************Taken the screenshot for login page ********************
+2021-11-04 09:10:13,074 :INFO :41 :Utilities.Usag_file :*************Click the button to logout ********************
+2021-11-04 09:10:13,143 :INFO :43 :Utilities.Usag_file :*************Close the current windows ********************
+2021-11-04 09:10:15,516 :INFO :45 :Utilities.Usag_file :*************Quit the session ********************
+2021-11-04 09:10:26,848 :INFO :24 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-04 09:10:26,848 :INFO :24 :Utilities.Usag_file :*************Go to the log file ********************
+2021-11-04 09:10:26,862 :INFO :26 :Utilities.Usag_file :*************test_002_DDT_login********************
+2021-11-04 09:10:26,862 :INFO :26 :Utilities.Usag_file :*************test_002_DDT_login********************
+2021-11-04 09:10:26,862 :INFO :27 :Utilities.Usag_file :*************Verifying login test ********************
+2021-11-04 09:10:26,862 :INFO :27 :Utilities.Usag_file :*************Verifying login test ********************
+2021-11-04 09:10:26,862 :INFO :29 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-04 09:10:26,862 :INFO :29 :Utilities.Usag_file :*************Switch new windows ********************
+2021-11-04 09:10:46,401 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:10:46,401 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:10:46,499 :INFO :45 :Utilities.Usag_file :*************expect_title pass ********************
+2021-11-04 09:10:46,499 :INFO :45 :Utilities.Usag_file :*************expect_title pass ********************
+2021-11-04 09:10:51,812 :INFO :48 :Utilities.Usag_file :************* Passed ********************
+2021-11-04 09:10:51,812 :INFO :48 :Utilities.Usag_file :************* Passed ********************
+2021-11-04 09:11:01,407 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:01,407 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:01,421 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:01,421 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:01,421 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:01,421 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:09,723 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:09,723 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:09,733 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:09,733 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:09,734 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:09,734 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:18,116 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:18,116 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:18,123 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:18,123 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:18,123 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:18,123 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:26,450 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:26,450 :INFO :41 :Utilities.Usag_file :*************click_on_login_button ********************
+2021-11-04 09:11:26,459 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:26,459 :INFO :56 :Utilities.Usag_file :*************expect_title Failed ********************
+2021-11-04 09:11:26,459 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:26,459 :INFO :61 :Utilities.Usag_file :************* Pass ********************
+2021-11-04 09:11:26,459 :INFO :64 :Utilities.Usag_file :************* Login DDT test Passed............ ********************
+2021-11-04 09:11:26,459 :INFO :64 :Utilities.Usag_file :************* Login DDT test Passed............ ********************
+2021-11-04 09:11:26,509 :INFO :71 :Utilities.Usag_file :************ End Of the Login DDT Test Process **************
+2021-11-04 09:11:26,509 :INFO :71 :Utilities.Usag_file :************ End Of the Login DDT Test Process **************
+2021-11-08 11:37:45,436 :INFO :23 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:39:43,807 :INFO :25 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:41:30,051 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:44:04,412 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:48:05,106 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:51:34,963 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:55:19,507 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:57:36,851 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 11:57:43,534 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 12:04:17,545 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 12:04:23,605 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 12:14:22,288 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 12:14:26,703 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 12:19:51,211 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 12:20:00,067 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 12:21:12,298 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 12:21:18,814 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:06:10,131 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:06:13,897 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:15:08,432 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:15:14,051 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:16:26,837 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:16:32,098 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:25:57,085 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:26:05,258 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:26:08,528 :INFO :46 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-08 16:26:08,528 :INFO :47 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:37:06,850 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:37:12,143 :INFO :31 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:37:15,958 :INFO :46 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-08 16:38:54,809 :INFO :26 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:40:12,471 :INFO :27 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:40:59,331 :INFO :27 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:42:01,707 :INFO :27 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:42:06,226 :INFO :32 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:42:09,983 :INFO :47 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-08 16:44:55,657 :INFO :27 :Utilities.Usag_file :*************Login is successfully ********************
+2021-11-08 16:45:01,889 :INFO :32 :Utilities.Usag_file :*************Test_003_Add_Customer Test Cases ********************
+2021-11-08 16:45:07,628 :INFO :47 :Utilities.Usag_file :*************Saving Customer information********************
+2021-11-08 16:45:08,167 :INFO :52 :Utilities.Usag_file :*************Add customer successfully alert validated and pass ********************
